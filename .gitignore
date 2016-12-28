@@ -1,0 +1,8 @@
+*.pyc
+*.log
+*.swp
+*.out
+gdb.txt
+tags
+.ropeproject/*
+.ropeproject
