@@ -7,6 +7,7 @@ utility functions
 """
 
 import sys
+import builtins
 
 
 def square(x):
@@ -40,3 +41,6 @@ for x in list_funs:
     print('help(...) on function:', x)
 #    help('list.'+x)
 
+# get system builtin objects
+len(dir(builtins)), len([x for x in dir(builtins) if not x.startswith('__')])
+help(builtins)
