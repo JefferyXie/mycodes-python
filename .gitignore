@@ -6,3 +6,4 @@ gdb.txt
 tags
 .ropeproject/*
 .ropeproject
+.vscode/settings.json
