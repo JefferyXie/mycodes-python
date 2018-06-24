@@ -1,0 +1,6 @@
+[submodule "__learn/pandas_exercises"]
+	path = __learn/pandas_exercises
+	url = https://github.com/guipsamora/pandas_exercises.git
+[submodule "__learn/pandas_exercises_rhomi"]
+	path = __learn/pandas_exercises_rhomi
+	url = https://github.com/Rhomi/Pandas-Exercises.git
