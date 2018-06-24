@@ -1,0 +1,2 @@
+open anaconda terminal or jupyter terminal -
+$ jupyter nbconvert --to script [YOUR_NOTEBOOK].ipynb
