@@ -4,3 +4,6 @@
 [submodule "__learn/pandas_exercises_rhomi"]
 	path = __learn/pandas_exercises_rhomi
 	url = https://github.com/Rhomi/Pandas-Exercises.git
+[submodule "__learn/pytudes"]
+	path = __learn/pytudes
+	url = https://github.com/norvig/pytudes.git
