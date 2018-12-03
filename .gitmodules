@@ -7,3 +7,6 @@
 [submodule "__learn/pytudes"]
 	path = __learn/pytudes
 	url = https://github.com/norvig/pytudes.git
+[submodule "__learn/leetcode_shichao_an"]
+	path = __learn/leetcode_shichao_an
+	url = https://github.com/shichao-an/leetcode-python.git
