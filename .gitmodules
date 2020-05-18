@@ -10,3 +10,9 @@
 [submodule "__learn/leetcode_shichao_an"]
 	path = __learn/leetcode_shichao_an
 	url = https://github.com/shichao-an/leetcode-python.git
+[submodule "__learn/50_matplotlib"]
+	path = __learn/50_matplotlib
+	url = https://github.com/ynuwm/50_matplotlib.git
+[submodule "__learn/matplotlib-gallery"]
+	path = __learn/matplotlib-gallery
+	url = https://github.com/rasbt/matplotlib-gallery.git
