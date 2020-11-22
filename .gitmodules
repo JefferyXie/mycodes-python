@@ -16,3 +16,6 @@
 [submodule "__learn/matplotlib-gallery"]
 	path = __learn/matplotlib-gallery
 	url = https://github.com/rasbt/matplotlib-gallery.git
+[submodule "__learn/algorithms"]
+	path = __learn/algorithms
+	url = https://github.com/keon/algorithms.git
