@@ -19,3 +19,9 @@
 [submodule "__learn/algorithms"]
 	path = __learn/algorithms
 	url = https://github.com/keon/algorithms.git
+[submodule "__learn/python-small-examples"]
+	path = __learn/python-small-examples
+	url = https://github.com/jackzhenguo/python-small-examples.git
+[submodule "__learn/dearpygui"]
+	path = __learn/dearpygui
+	url = https://github.com/hoffstadt/DearPyGui.git
